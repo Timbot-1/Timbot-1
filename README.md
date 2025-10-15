@@ -1,8 +1,8 @@
-
-      /\/\/\
-KNAPP/ATTACK\INDUSTRIES	
-     \/\/\/\/ 
-  
+   KNAPP
+ /\/\/\/\
+/ ATTACK \
+\/\/\/\/\/
+INDUSTRIES	
 PRESIDENT/CEO TIMOTHY KNAPP
 
 DIVISION OF INFORMATION SECURITY
